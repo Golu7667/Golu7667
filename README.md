@@ -22,14 +22,15 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>  &nbsp;
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>  &nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  &nbsp;
+  <img src="https://img.shields.io/badge/DBMS-E34F26?style=for-the-badge&logo=dbms&logoColor=white"/> &nbsp; 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=golu7667&show_icons=true&locale=en&layout=compact" alt="golu7667" /></p>
+<p align="center">
+<img align="center"align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=golu7667&" alt="golu7667" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=golu7667&show_icons=true&locale=en" alt="golu7667" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golu7667&show_icons=true&locale=en" alt="golu7667" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golu7667&" alt="golu7667" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=golu7667&show_icons=true&locale=en&layout=compact" alt="golu7667" /></p>
 
 
 
