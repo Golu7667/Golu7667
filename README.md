@@ -27,7 +27,6 @@
 
 
 <p align="center">
-<img align="center"align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=golu7667&" alt="golu7667" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=golu7667&show_icons=true&locale=en" alt="golu7667" /></p>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=golu7667&show_icons=true&locale=en&layout=compact" alt="golu7667" /></p>
